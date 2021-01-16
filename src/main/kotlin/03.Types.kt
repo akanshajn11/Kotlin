@@ -1,4 +1,4 @@
-fun main(){
+fun types(){
 
     //number
     var byte : Byte =0 //8 bit
