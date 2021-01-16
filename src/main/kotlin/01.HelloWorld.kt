@@ -1,4 +1,4 @@
-//fun main(){
-//    print("Hello World")
-//
-//}
+fun firstProgram(){
+    print("Hello World")
+
+}
