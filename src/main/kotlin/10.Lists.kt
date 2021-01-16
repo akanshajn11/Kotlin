@@ -85,7 +85,7 @@ fun  lists(){ //main()
     println(listTwo.elementAtOrNull(9))//even if element is not found at 9th index,it will not terminate the program, it will just return null
 
     //create an empty list
-    val elist = emptyArray<Int>()
+    val elist = emptyList<Int>()
     println(elist)
 
     //checking if a list is empty
