@@ -1,6 +1,8 @@
 fun abstractClass() { //main()
     //we cannot create object of abstract class
     //it is a set of rules/principles
+    //the class implementing the abstract class need not implement all members of abstract class
+
     println(getOperatingSystem(Windows()))
     println(getOperatingSystem(Mac()))
 
